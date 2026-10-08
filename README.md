@@ -4,6 +4,24 @@ A voice-first AI assistant that listens, thinks and answers out loud. Speak a re
 
 ---
 
+## Screenshots
+
+### Main interface
+The animated orb shows what Jarvis is doing: breathing when idle, spinning fast while thinking and pulsing in amber while speaking.
+
+<p align="center">
+  <img src="Screenshot%202026-10-08%20233807.png" alt="Jarvis main interface" width="850">
+</p>
+
+### Sidebar and settings
+Voice settings, session stats and the technology list live in the sidebar.
+
+<p align="center">
+  <img src="Screenshot%202026-10-08%20233824.png" alt="Jarvis sidebar and settings" width="320">
+</p>
+
+---
+
 ## Features
 
 - **Voice input.** Record your question in the browser (or in the terminal) and Jarvis transcribes it with Google Speech Recognition.
