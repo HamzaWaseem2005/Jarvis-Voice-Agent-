@@ -4,13 +4,7 @@ A voice-first AI assistant that listens, thinks and answers out loud. Speak a re
 
 ---
 
-## 📷 Screenshots
 
-![Jarvis main interface](ui-main.png)
-
-![Jarvis sidebar and settings](ui-sidebar.png)
-
----
 
 ## Features
 
